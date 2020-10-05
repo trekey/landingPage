@@ -1,0 +1,15 @@
+.body{
+    background-color:white
+}
+#header{
+    position: sticky;
+    position: fixed;
+}
+
+
+#form{
+    position: relative;
+    top: 0px;
+    left: 20px;
+}
+   
