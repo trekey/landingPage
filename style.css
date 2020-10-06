@@ -1,4 +1,49 @@
-.success{
+
+.body{
+    background-color: black;
+}
+#header{
+   left:1000px;
+    position: fixed;
+    
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 60%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 70%;
+    height: 50%;
+  }
+  #carouselExampleFade{
+    position: relative;
+    width: 80vw;
+    height:80%;
+    padding-bottom: 60%; 
+   
+  }
+   
+
+
+
+
+.success {
+    width: auto;
+    margin: -2px;
+    width: -100px;
+}
+.info {
+    width: auto;
+    margin: -2px;
+    width: -100px;
+}
+.danger {
     width: auto;
     margin: -2px;
     width: -100px;
