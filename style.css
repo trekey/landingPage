@@ -1,15 +1,5 @@
-.body{
-    background-color:white
+.success{
+    width: auto;
+    margin: -2px;
+    width: -100px;
 }
-#header{
-    position: sticky;
-    position: fixed;
-}
-
-
-#form{
-    position: relative;
-    top: 0px;
-    left: 20px;
-}
-   
